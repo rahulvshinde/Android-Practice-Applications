@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleDB</string>
+    <string name="action_settings">Settings</string>
+    <string name="displaytext">Contents from the database...</string>
+    <string name="addtext">Enter data here...</string>
+    <string name="getbutton">View data from the Database</string>
+    <string name="addbutton">Add data to the Database</string>
+</resources>

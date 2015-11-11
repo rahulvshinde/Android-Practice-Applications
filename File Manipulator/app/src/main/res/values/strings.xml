@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">File Manipulator</string>
+    <string name="tview1">Textview1</string>
+    <string name="etext1">Editview</string>
+    <string name="button1">Read Text From a File </string>
+    <string name="button2">Replace Text Into a File</string>
+    <string name="button3">Append Text Into a File</string>
+    <string name="action_settings">Settings</string>
+</resources>
